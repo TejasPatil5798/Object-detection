@@ -68,5 +68,6 @@ Bounding boxes with class ID and confidence scores
 
 Output video file generated as output_video.mp4 (for recorded video script)
 
+Output demo video is attached.
 
 ## Made with 💡 and OpenCV + YOLOv8
